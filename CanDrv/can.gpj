@@ -1,0 +1,14 @@
+#!gbuild
+[Subproject]
+	-I.
+PTC_Can.h
+r_intc.c
+r_intc.h
+r_port.c
+r_port.h
+r_canfd.c
+r_canfd.h
+r_canfd_table.c
+r_canfd_table.h
+r_rscanfd.c
+r_rscanfd.h

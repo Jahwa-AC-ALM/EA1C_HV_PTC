@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "app_define.h": "c",
+        "app_extern.h": "c",
+        "r_cg_macrodriver.h": "c",
+        "r_cg_userdefine.h": "c",
+        "app_adc.h": "c",
+        "r_smc_entry.h": "c",
+        "app_util.h": "c",
+        "r_rscanfd.h": "c",
+        "config_taud0_1.h": "c",
+        "app_main.h": "c",
+        "r_port.h": "c",
+        "iodefine.h": "c",
+        "r_device.h": "c",
+        "r_canfd.h": "c"
+    }
+}
